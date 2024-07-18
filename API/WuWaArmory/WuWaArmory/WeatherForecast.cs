@@ -1,4 +1,4 @@
-namespace WuWaArmory
+namespace WeatherMan
 {
     public class WeatherForecast
     {

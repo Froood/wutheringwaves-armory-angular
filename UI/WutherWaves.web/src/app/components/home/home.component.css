@@ -1,0 +1,49 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Transparent glassy box */
+.glassy-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    backdrop-filter: blur(2px); /* Adds blur effect for glassy look */
+}
+
+/* Container for content */
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Center text inside container */
+.content {
+    margin-bottom: 20px; /* Space between content and button */
+}
+
+/* Centered container for button */
+.centered-container {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-btn {
+    background-color: goldenrod;
+    padding: 5px;
+    transition: background-color 0.3s ease; /* Smooth transition for background color change */
+    border-color: transparent; /* Remove default border color */
+}
+
+.custom-btn:hover {
+    background-color: #28a745; /* Green color on hover */
+    border-color: transparent; /* Ensure no border color on hover */
+}
