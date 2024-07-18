@@ -1,0 +1,6 @@
+@WuWaArmory_HostAddress = http://localhost:5111
+
+GET {{WuWaArmory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
