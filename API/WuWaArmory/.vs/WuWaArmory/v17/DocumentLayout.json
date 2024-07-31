@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\models\\updatecharacterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\models\\addcharacterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\models\\addcharacterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|solutionrelative:wuwaarmory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81558C30-D1F4-48AC-AD17-5871A7C7AD21}|WuWaArmory\\WuWaArmory.csproj|f:\\github\\wutheringwaves-armory-angular\\api\\wuwaarmory\\wuwaarmory\\data\\wuwadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Program.cs",
               "RelativeDocumentMoniker": "WuWaArmory\\Program.cs",
               "ToolTip": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Program.cs",
               "RelativeToolTip": "WuWaArmory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T16:44:55.048Z",
               "IsPinned": true,
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateCharacterDto.cs",
               "DocumentMoniker": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Models\\UpdateCharacterDto.cs",
               "RelativeDocumentMoniker": "WuWaArmory\\Models\\UpdateCharacterDto.cs",
@@ -81,12 +81,11 @@
               "RelativeToolTip": "WuWaArmory\\Models\\UpdateCharacterDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:34:35.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:34:35.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AddCharacterDto.cs",
               "DocumentMoniker": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Models\\AddCharacterDto.cs",
               "RelativeDocumentMoniker": "WuWaArmory\\Models\\AddCharacterDto.cs",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "WuWaArmory\\Models\\AddCharacterDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:10:09.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:10:09.632Z"
             },
             {
               "$type": "Document",
@@ -105,14 +103,13 @@
               "RelativeDocumentMoniker": "WuWaArmory\\Controllers\\CharactersController.cs",
               "ToolTip": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Controllers\\CharactersController.cs",
               "RelativeToolTip": "WuWaArmory\\Controllers\\CharactersController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAtwFIAAAAlAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwCQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T18:18:47.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T18:18:47.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Character.cs",
               "DocumentMoniker": "F:\\GitHub\\wutheringwaves-armory-angular\\API\\WuWaArmory\\WuWaArmory\\Models\\Character.cs",
               "RelativeDocumentMoniker": "WuWaArmory\\Models\\Character.cs",
@@ -120,8 +117,7 @@
               "RelativeToolTip": "WuWaArmory\\Models\\Character.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:11:21.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T13:11:21.137Z"
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "RelativeToolTip": "WuWaArmory\\Data\\WuWaDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:42:16.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T16:42:16.753Z"
             },
             {
               "$type": "Document",

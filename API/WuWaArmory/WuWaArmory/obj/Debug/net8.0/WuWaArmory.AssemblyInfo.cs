@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WuWaArmory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f34f496e042670a23a41ccda0ab4aab6c7e9c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3246250268d0b010496b25a91234aba6a66c46e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WuWaArmory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WuWaArmory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

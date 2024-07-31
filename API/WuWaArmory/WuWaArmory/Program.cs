@@ -11,7 +11,23 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<WuWaDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Add CORS services to the container.
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200") // Your frontend URL
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
+
 var app = builder.Build();
+
+// Use CORS
+app.UseCors("AllowSpecificOrigin");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

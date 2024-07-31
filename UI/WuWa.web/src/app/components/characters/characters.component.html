@@ -1,0 +1,17 @@
+<!-- character-list.component.html -->
+<div class="d-flex banner text-start">
+    <button (click)="goToRoute()" class="btn btn-primary me-5" >Back</button>
+  <h1>Character Armory</h1>
+</div>
+
+<div class="character-cards">
+  <div class="card" *ngFor="let c of characters">
+    <div class="card-content">
+      <h3>{{ c.name }}</h3>
+      <p class="card-age">Age: {{ c.age }}</p>
+      <p class="card-rating">Rating: {{ c.rating }}</p>
+      <p class="card-description">Description: {{ c.description }}</p>
+      <p class="card-region">Region: {{ c.region }}</p>
+    </div>
+  </div>
+</div>

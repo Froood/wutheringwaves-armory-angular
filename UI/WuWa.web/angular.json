@@ -3,9 +3,19 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "WutherWaves.web": {
+    "WuWa.web": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {
+        "@schematics/angular:component": {
+          "standalone": false
+        },
+        "@schematics/angular:directive": {
+          "standalone": false
+        },
+        "@schematics/angular:pipe": {
+          "standalone": false
+        }
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -13,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/wuther-waves.web",
+            "outputPath": "dist/wu-wa.web",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -27,8 +37,8 @@
               }
             ],
             "styles": [
-               "src/styles.css",
-               "node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -60,10 +70,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "WutherWaves.web:build:production"
+              "buildTarget": "WuWa.web:build:production"
             },
             "development": {
-              "buildTarget": "WutherWaves.web:build:development"
+              "buildTarget": "WuWa.web:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -95,6 +105,6 @@
     }
   },
   "cli": {
-    "analytics": false
+    "analytics": "ddc46fe8-414f-4adb-a37d-4c208c253212"
   }
 }
